@@ -1,0 +1,19 @@
+{
+	"total":1,
+	"success":true,	
+	"items":[ 
+		{
+			"id":"1",
+			"name":"test",
+			"description":"Test Domain",
+			"timezone":"",
+			"system":true
+		}, {
+			"id":"2",
+			"name":"test2",
+			"description":"Test Domain2",
+			"timezone":"",
+			"system":true
+		}
+	]
+}
